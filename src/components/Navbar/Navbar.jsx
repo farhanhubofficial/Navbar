@@ -19,7 +19,7 @@ export default function Navbar({theme, setTheme}) {
           <li>Home</li>
           <li>Products</li>
           <li>Features</li>
-          <li>About</li>
+          <li>Abt</li>
         </ul>
         <div className='search-box'>
           <input type="text" placeholder='Search farhan' />
